@@ -1,0 +1,19 @@
+{
+  "name": "centillien/anypage_widgets",
+  "description": "Let users add widgets to AnyPages.",
+  "type": "elgg-plugin",
+  "keywords": [
+    "elgg",
+    "plugin"
+  ],
+  "license": "GPL-2.0",
+  "authors": [
+    {
+      "name": "Wouter van Os",
+      "email": "wvanos@netcare.nl"
+    }
+  ],
+  "require": {
+    "anypage": "1.*"
+  }
+}
