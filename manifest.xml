@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin_manifest xmlns="http://www.myvox.org/plugin_manifest/1.8">
+	<name>Anypage Widgets</name>
+	<author>Centillien</author>
+	<version>1.0.0</version>
+	<category>content</category>
+	<description>Add widgets to Any Page</description>
+	<website>http://www.myvox.org/</website>
+	<copyright>See COPYRIGHT.txt</copyright>
+	<license>GNU General Public License version 2</license>
+
+	<requires>
+		<type>myvox_release</type>
+		<version>1.8</version>
+	</requires>
+
+	<requires>
+		<type>priority</type>
+		<plugin>widget_manager</plugin>
+		<priority>after</priority>
+	</requires>
+
+	<requires>
+		<type>priority</type>
+		<plugin>anypage</plugin>
+		<priority>after</priority>
+	</requires>
+</plugin_manifest>
