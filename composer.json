@@ -12,8 +12,5 @@
       "name": "Wouter van Os",
       "email": "wvanos@netcare.nl"
     }
-  ],
-  "require": {
-    "anypage": "*"
-  }
+  ]
 }
