@@ -14,6 +14,6 @@
     }
   ],
   "require": {
-    "anypage": "1.*"
+    "anypage": "*"
   }
 }
